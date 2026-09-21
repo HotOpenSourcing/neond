@@ -2,7 +2,6 @@
 /build/postgis/
 neond.iml
 .idea/
-.env
 
 neon_daemon_data/
 
@@ -19,3 +18,5 @@ landing/node_modules/
 landing/.vuepress/.cache/
 landing/.vuepress/.temp/
 landing/.vuepress/dist/
+config.bat
+node_modules
